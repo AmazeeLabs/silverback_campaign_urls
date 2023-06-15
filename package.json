@@ -1,6 +1,6 @@
 {
   "name": "@-amazeelabs/silverback_campaign_urls",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Amazee Labs <development@amazeelabs.com>",
   "license": "GPL-2.0+",
   "publishConfig": {
@@ -15,5 +15,5 @@
   "scripts": {
     "version": "sync-composer-version"
   },
-  "gitHead": "47ee92dbdd3d086456b67a3cfd3937e970c95a30"
+  "gitHead": "6c221081ab45068617629e6bd82ceae84f8754f9"
 }
