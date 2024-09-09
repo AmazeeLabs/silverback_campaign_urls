@@ -1,6 +1,6 @@
 {
   "name": "@-amazeelabs/silverback_campaign_urls",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "author": "Amazee Labs <development@amazeelabs.com>",
   "license": "GPL-2.0+",
   "publishConfig": {
@@ -16,5 +16,5 @@
     "test:unit": "cd ../../../../apps/silverback-drupal && vendor/phpunit/phpunit/phpunit web/modules/contrib/silverback_campaign_urls",
     "version": "sync-composer-version"
   },
-  "gitHead": "41b9871a1f15c0f58cb2c54922cc0e636709e837"
+  "gitHead": "5f38ba39aad2d38e6fb326815ab518ad6f0a1afd"
 }
